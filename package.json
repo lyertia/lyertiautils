@@ -1,9 +1,9 @@
 {
   "name": "lyertiautils",
-  "version": "0.0.3",
-  "description": "Advanced tools for discord bot developments.",
+  "version": "0.0.5",
+  "description": "A tool for DownTime Detector api. Helps to post statistics.",
   "main": "index.js",
-  "repository": "https://",
+  "repository": "https://github.com/lyertia/lyertiautils",
   "author": "lyertia",
   "license": "CC BY-NC-SA 4.0",
   "dependencies": {
